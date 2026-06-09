@@ -37,8 +37,13 @@
 - GitHub
 - VS Code
 
--## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![Tanmayi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmayi09&show_icons=true&theme=github_dark)
+### 🏥 MediNest
+AI-powered healthcare assistance platform using React.js, Node.js, and AI integrations.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayi09&layout=compact&theme=github_dark)
+### 🧠 NeuroNest
+AI learning companion designed for neurodivergent children with personalized learning support.
+
+### 💻 Java DSA
+Collection of Data Structures and Algorithms solutions implemented in Java.
