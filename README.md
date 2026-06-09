@@ -36,3 +36,9 @@
 - Git
 - GitHub
 - VS Code
+
+- ## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmayi09&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayi09&layout=compact&theme=tokyonight)
